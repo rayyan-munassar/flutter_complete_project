@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_complete_project/core/routing/routes.dart';
-import 'package:flutter_complete_project/features/login/ui/widgets/login_screen.dart';
+import 'package:flutter_complete_project/features/login/ui/login_screen.dart';
 import 'package:flutter_complete_project/features/onboarding/onboarding_screen.dart';
 
 class AppRouter {

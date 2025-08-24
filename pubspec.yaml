@@ -50,7 +50,7 @@ dependencies:
   retrofit_generator: ^10.0.2
   pretty_dio_logger: ^1.4.0
   # For splash screen
-  flutter_native_splash: ^2.4.6
+#  flutter_native_splash: ^2.4.6
   # An SVG rendering and widget library for Flutter, which allows painting
   flutter_svg: ^2.2.0
   # for adapting screen and font size
